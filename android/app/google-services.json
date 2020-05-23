@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "317751998449",
+    "firebase_url": "https://flash-chat-f9b4b.firebaseio.com",
+    "project_id": "flash-chat-f9b4b",
+    "storage_bucket": "flash-chat-f9b4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317751998449:android:9c517e051c9159889af650",
+        "android_client_info": {
+          "package_name": "com.larissavarjao.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317751998449-mk4ptjq2uljpa15rjkc0qkf1o4o265ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxfElR9-pc1kcrcs34Y1vF4ISMovDA9Rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317751998449-mk4ptjq2uljpa15rjkc0qkf1o4o265ji.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317751998449-454gehtsand7vsr6hnptqs6l8tjqel00.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.larissavarjao.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
