@@ -64,8 +64,6 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
               text: 'Register',
               onPressed: () async {
                 try {
-                  print(email.toString().trim());
-                  print(password);
                   final newUser = await _auth.createUserWithEmailAndPassword(
                       email: email.toString().trim(), password: password);
                   if (newUser != null) {
